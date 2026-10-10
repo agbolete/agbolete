@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-easyocr
-pillow
-supabase
-websockets>=12,<14
